@@ -1,0 +1,14 @@
+what are algorithms that have both classification and regression implemntations?
+
+for supervised:
+	1. Decision tree
+	2. Random forest
+	3.Support vector machine
+	4.Naive Bays Classifier
+	5.K-Nearest Neighbors (kNN)
+
+and all unsupervised: (such as)
+	1. clustering,
+ 	2.dimension reduction (PCA, t-sne, autoencoder,...),
+	3.missing value imputation,
+	4.outlier detection,

@@ -1,0 +1,8 @@
+For what srandard scaler is used ?
+
+
+StandardScaler :
+	 It transforms the data in such a manner that it has mean as 0 and standard deviation as 1. In 	short, it standardizes the data. Standardization is useful for data which has negative values. It 	arranges the data in a standard normal distribution. It is more useful in classification than 	regression. You can read this blog of mine.
+
+Normalizer :
+	 It squeezes the data between 0 and 1. It performs normalization. Due to the decreased range 	and magnitude, the gradients in the training process do not explode and you do not get higher 	values of loss. Is more useful in regression than classification.
